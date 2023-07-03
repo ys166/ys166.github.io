@@ -1,2 +1,11 @@
-<p>友声网：https://www.ys166.com</p>
-<p>友声网博客：https://hi.ys166.com</p>
+<ul>
+  <li>主页：<a href="https://www.ys166.com/" target="_blank">www.ys166.com</a></li>
+  <li>博客：<a href="https://hi.ys166.com/" target="_blank">hi.ys166.com</a></li>  
+  <li>CNG知识库：<a href="https://cng.ys166.com/" target="_blank">cng.ys166.com</a></li>
+  <li>DIY创意生活：<a href="https://diy.ys166.com/" target="_blank">diy.ys166.com</a></li>
+<br>防丢：<br>
+  <li>QQ群：<a href="https://jq.qq.com/?_wv=1027&amp;k=eemuVzB7" 标题="33188995">33188995</a></li>
+  <li>备站：<a href="https://ys166.vip/" target="_blank">ys166.vip</a></li>
+  <li>GitHub：<a href="https://ys166.github.io/" 标题="https://ys166.github.io">ys166.github.io</a></li>
+</ul>
+<p><a href="./phpwind" target="_blank">PHPWind历史版本及升级包下载（v1.0.0 - v9.0.2、Ofstar to PW）</a></p>
