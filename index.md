@@ -1,10 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<标题>友声网 - ys166.com</标题>
-</head>
-<内容>
 <ul>
   <li>主页：<a href="https://www.ys166.com/" target="_blank">www.ys166.com</a></li>
   <li>博客：<a href="https://hi.ys166.com/" target="_blank">hi.ys166.com</a></li>  
@@ -14,7 +7,8 @@
   <li>QQ群：<a href="https://jq.qq.com/?_wv=1027&amp;k=eemuVzB7" 标题="33188995" target="_blank">33188995</a></li>
   <li>备站：<a href="https://ys166.vip/" target="_blank">ys166.vip</a></li>
   <li>GitHub：<a href="https://ys166.github.io/" 标题="https://ys166.github.io" target="_blank">ys166.github.io</a></li>
+<br>PHPWind历史版本及升级包下载（v1.0.0 - v9.0.2、Ofstar to PW）<br>
+  <li>友声网：<a href="http://ys166.com/t-3560" target="_blank">ys166.com/t-3560</a></li>
+  <li>博客：<a href="http://hi.ys166.com/t/288" target="_blank">hi.ys166.com/t/288</a></li>
+  <li>CSDN：<a href="http://blog.csdn.net/ys166com/article/details/62893661" target="_blank">blog.csdn.net/ys166com/article/details/62893661</a></li>
 </ul>
-<p><a href="./phpwind/" target="_blank">PHPWind历史版本及升级包下载（v1.0.0 - v9.0.2、Ofstar to PW）</a></p>
-</内容>
-</html>
