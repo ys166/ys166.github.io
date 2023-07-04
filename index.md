@@ -1,5 +1,5 @@
 <ul>
-  <li>主页：<a href="https://www.ys166.com/" target="_blank">www.ys166.com</a></li>
+  <li>主页：<a href="https://www.ys166.com/" target="_blank">ys166.com</a></li>
   <li>博客：<a href="https://hi.ys166.com/" target="_blank">hi.ys166.com</a></li>  
   <li>CNG知识库：<a href="https://cng.ys166.com/" target="_blank">cng.ys166.com</a></li>
   <li>DIY创意生活：<a href="https://diy.ys166.com/" target="_blank">diy.ys166.com</a></li>
